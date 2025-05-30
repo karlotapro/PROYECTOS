@@ -59,3 +59,18 @@ footer {
     background-color: #264653;
     color: white;
 }
+
+.tarjeta {
+    display: flex;
+    justify-content: center;
+}
+
+.paises {
+    text-align: center;
+}
+img{
+    width: 500px;
+    height: 400px;
+    display: block;
+    text-align: center;
+}
